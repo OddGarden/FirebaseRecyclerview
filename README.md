@@ -12,8 +12,13 @@ My Two Cents: As I was working with Firebase on android development, I found it 
 
 --> Avoid deep nest structures with firebase. You want the the data to be easily accessible. Take some time to figure this out. In my example:
 
-   ![Alt text](screenshots/firebase_structure.png?raw=true "Optional Title")
+   ![Alt text](screenshots/firebase_structure.png?raw=true "Firebase Screenshot")
             
 --> Use a Model class. This is simple. How do you want the data from firebase to be structured on your app? That's all. Simple.
 
 
+End result:
+
+ ![Alt text](screenshots/main.png?raw=true "Main List page")
+ 
+ ![Alt text](screenshots/addLink.png?raw=true "Adding a resource fragment")
