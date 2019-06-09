@@ -14,7 +14,7 @@ My Two Cents: As I was working with Firebase on android development, I found it 
 
    ![Alt text](screenshots/firebase_structure.png?raw=true "Firebase Screenshot")
             
---> Use a Model class. This is simple. How do you want the data from firebase to be structured on your app? That's all. Simple.
+--> Use a Model class. In my own simple understanding; this addresses the issue on how to structure the firebase data. 
 
 
 End result:
