@@ -11,6 +11,7 @@ My Two Cents: As I was working with Firebase on android development, I found it 
 --> Make sure to register your app on Firebase. This may seem like a 'duh' step for anyone familiar with Android Dev but for a newbie, this is worth a reminder/mention. The "how to" guide can easily be located on the android documentation here: https://developer.android.com
 
 --> Avoid deep nest structures with firebase. You want the the data to be easily accessible. Take some time to figure this out. In my example:
+
    ![Alt text](screenshots/firebase_structure.png?raw=true "Optional Title")
             
 --> Use a Model class. This is simple. How do you want the data from firebase to be structured on your app? That's all. Simple.
