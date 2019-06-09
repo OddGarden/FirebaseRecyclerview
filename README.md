@@ -14,7 +14,7 @@ My Two Cents: As I was working with Firebase on android development, I found it 
 
    ![Alt text](screenshots/firebase_structure.png?raw=true "Firebase Screenshot")
             
---> Use a Model class. In my own simple understanding; this addresses the issue on how to structure the firebase data. 
+--> Use a Model class. In my own simple understanding; this addresses the issue on how to structure the firebase data that will appear on the app. 
 
 
 End result:
