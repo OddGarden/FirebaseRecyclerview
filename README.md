@@ -18,9 +18,10 @@ My Two Cents: As I was working with Firebase on android development, I found it 
 
 
 End result:
+<img src="https://github.com/OddGarden/FirebaseRecyclerview/blob/master/screenshots/main.png" alt="Your image title" width="250"/>
 
 <img src="https://github.com/OddGarden/FirebaseRecyclerview/blob/master/screenshots/addLink.png" alt="Your image title" width="250"/>
 
- ![Alt text](screenshots/main.png?raw=true "Main List page")
+
  
 
