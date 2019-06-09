@@ -19,6 +19,8 @@ My Two Cents: As I was working with Firebase on android development, I found it 
 
 End result:
 
+<img src="https://github.com/OddGarden/FirebaseRecyclerview/blob/master/screenshots/addLink.png" alt="Your image title" width="250"/>
+
  ![Alt text](screenshots/main.png?raw=true "Main List page")
  
- ![Alt text](screenshots/addLink.png?raw=true "Adding a resource fragment")
+
